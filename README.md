@@ -1,5 +1,9 @@
 #!免责声明balablabalabala纯属玩玩而已有什么问题不关我事啊。。。。
 
+--这个脚本做的事情：配置java,python环境，安装spark,hadoop并修改文件
+
+--如果已经安装了的要运行的请删掉rm -rf
+
 1.Create three instances first
 
 2.Modify the /etc/hosts according to the lab guide
