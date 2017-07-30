@@ -1,4 +1,4 @@
-#!免责声明balablabalabala纯属玩玩有什么问题概不负责。。。。
+#!免责声明balablabalabala纯属玩玩而已有什么问题不关我事啊。。。。
 
 1.Create three instances first
 
