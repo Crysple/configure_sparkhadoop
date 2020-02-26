@@ -1,4 +1,3 @@
-#!免责声明balablabalabala纯属玩玩而已有什么问题不关我事啊。。。。
 
 --这个脚本做的事情：配置java,python环境，安装spark,hadoop并修改文件
 
@@ -6,9 +5,9 @@
 
 1.Create three instances first
 
-2.Modify the /etc/hosts according to the lab guide
+2.Modify the /etc/hosts according to the guide
 
-3.configure .SSH according to the lab guide
+3.configure .SSH according to the guide
 
 //就是自己配置ssh和host,host用私有ip配置
 
